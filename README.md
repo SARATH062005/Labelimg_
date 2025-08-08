@@ -171,5 +171,5 @@ We welcome contributions!
 * **Email:** [your.email@example.com](mailto:your.email@example.com)
 * **GitHub:** [@YourUsername](https://github.com/YourUsername)
 
-<p align="center">⭐ If you find this useful, please give it a star on GitHub! ⭐</p>
+<p align="center">⭐ If you find this Tool useful, please give it a star on GitHub! ⭐</p>
 
